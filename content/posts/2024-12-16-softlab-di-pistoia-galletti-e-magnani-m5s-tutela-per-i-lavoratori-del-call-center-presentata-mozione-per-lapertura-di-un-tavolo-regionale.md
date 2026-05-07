@@ -1,0 +1,19 @@
+---
+title: >-
+  Softlab di Pistoia, Galletti e Magnani (M5S): "Tutela per i lavoratori del
+  call center: presentata mozione per l'apertura di un tavolo regionale"
+date: '2024-12-16'
+slug: >-
+  2024-12-16-softlab-di-pistoia-galletti-e-magnani-m5s-tutela-per-i-lavoratori-del-call-center-presentata-mozione-per-lapertura-di-un-tavolo-regionale
+excerpt: >-
+  Irene Galletti, Presidente del Movimento 5 Stelle in Consiglio Regionale,
+  annuncia la presentazione di una mozione per affrontare con urgenza la grave
+  situazione che coinvolge le lavoratrici e i lavoratori che operano nel call
+  center di via Venturi, a Sant’Agostino (Pistoia). L’atto presentato impeg
+categories:
+  - Lavoro
+  - Pistoia
+image: /images/post/IG_2023-e1730992136654.jpg
+---
+
+Irene Galletti, Presidente del Movimento 5 Stelle in Consiglio Regionale, annuncia la presentazione di una mozione per affrontare con urgenza la grave situazione che coinvolge le lavoratrici e i lavoratori che operano nel call center di via Venturi, a Sant’Agostino (Pistoia). L’atto presentato impegna la Regione Toscana ad avviare immediatamente un tavolo di crisi regionale, al quale dovranno partecipare tutte le parti interessate: Softlab Next Srl, la partner Tecnocall, le organizzazioni sindacali di categoria e le altre realtà coinvolte, inclusa Enel Energia. Per la Presidente del M5S, "Questo tavolo è indispensabile per garantire tutela ai 58 dipendenti di Softlab, che denunciano irregolarità nei pagamenti e che a dicembre non hanno ricevuto né lo stipendio né la tredicesima. Ma è anche l’occasione per affrontare una questione più ampia, che potrebbe coinvolgere altre aziende in Toscana: la recente decisione di Tecnocall e di altre realtà del settore di aderire al contratto redatto da CISAL, nettamente inferiore in termini di retribuzioni e tutele rispetto al Contratto Collettivo Nazionale stipulato da CGIL, CISL e UIL. Questo rappresenta un preoccupante passo indietro sui diritti dei lavoratori e deve essere contrastato con fermezza. Su questo tema anche il Governo Meloni deve assumere una posizione chiara e spiegare quali misure intenda adottare per combattere il dumping contrattuale, una pratica che alimenta il fenomeno del lavoro povero nel nostro Paese," conclude Galletti. Particolare attenzione dovrà essere rivolta al ruolo di Enel Energia, che definirà le condizioni del prossimo appalto, ormai in vista. "Enel Energia ha una responsabilità diretta nell’assicurare che le condizioni contrattuali garantiscano pienamente i diritti delle lavoratrici e dei lavoratori, i quali rappresenteranno l’azienda nelle comunicazioni con gli utenti. Per questo, riteniamo che la partecipazione di Enel al tavolo regionale sia non solo auspicabile, ma decisiva," sottolinea la Presidente del M5S. Sulla vicenda interviene anche Simone Magnani, Coordinatore del M5S per la provincia di Pistoia: "Ogni giorno, in questo Paese, perdiamo un piccolo pezzo dei nostri diritti, scivolando verso una forma di sfruttamento legalizzato che impoverisce il tessuto sociale. La provincia di Pistoia vive da anni una profonda crisi economica, che costringe molti lavoratori ad accettare condizioni contrattuali svantaggiose. È inaccettabile che, a quasi 80 anni dal riconoscimento del lavoro come base fondativa della nostra Repubblica, si debba ancora lottare per la dignità del lavoro e per il diritto di percepire il proprio stipendio." "Come Movimento 5 Stelle, siamo al fianco di lavoratrici, lavoratori e sindacati per fermare queste ingiustizie e costruire un futuro in cui i diritti, la dignità e la sicurezza economica di tutte e tutti siano al centro delle decisioni politiche e aziendali. Solo così potremo dare vita a un sistema che metta le persone al primo posto e combatta con decisione la precarietà che affligge la nostra società," concludono Galletti e Magnani.

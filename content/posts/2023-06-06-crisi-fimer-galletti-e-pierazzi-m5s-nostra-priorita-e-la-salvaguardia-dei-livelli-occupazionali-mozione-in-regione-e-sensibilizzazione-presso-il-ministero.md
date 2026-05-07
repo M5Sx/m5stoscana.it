@@ -1,0 +1,19 @@
+---
+title: >-
+  Crisi Fimer, Galletti e Pierazzi (M5S): ”Nostra priorità è la salvaguardia dei
+  livelli occupazionali. Mozione in Regione e sensibilizzazione presso il
+  Ministero”
+date: '2023-06-06'
+slug: >-
+  2023-06-06-crisi-fimer-galletti-e-pierazzi-m5s-nostra-priorita-e-la-salvaguardia-dei-livelli-occupazionali-mozione-in-regione-e-sensibilizzazione-presso-il-ministero
+excerpt: >-
+  Il Movimento 5 Stelle annuncia iniziative per portare un pieno sostegno ai
+  lavoratori coinvolti nella crisi della Fimer Spa di Terranuova Bracciolini.
+  Tommaso Pierazzi, consigliere comunale e coordinatore provinciale del M5S
+  aretino , esprime grande preoccupazione per la situazione critica della Fim
+categories:
+  - Lavoro
+image: /images/post/fimer-inverter.jpg
+---
+
+Il Movimento 5 Stelle annuncia iniziative per portare un pieno sostegno ai lavoratori coinvolti nella crisi della Fimer Spa di Terranuova Bracciolini. **Tommaso Pierazzi, consigliere comunale e coordinatore provinciale del M5S aretino**, esprime grande preoccupazione per la situazione critica della Fimer: "Seguiamo con apprensione le notizie provenienti da Terranuova Bracciolini riguardo all'interruzione delle trattative tra Fimer Spa e McLaren Greybull." Secondo il coordinatore provinciale del M5S, “Il primo pensiero va ai lavoratori e alle loro famiglie per il dramma che stanno vivendo da troppo tempo, con il pieno appoggio e sostegno del Movimento 5 Stelle. Tuttavia, troviamo assurdo che un'azienda leader nella produzione di inverter fotovoltaici, che conta su personale altamente qualificato, possa “giocare”il futuro di tanti lavoratori." "Mi sono confrontato sulla questione con la coordinatrice regionale del Movimento 5 Stelle, Irene Galletti, per informare il Presidente Giuseppe Conte degli ultimi sviluppi e avviare un'azione di sensibilizzazione presso il Ministero competente. Il Valdarno ha perso molte realtà produttive in questi anni, nonostante fossero aziende leader di mercato, e non possiamo permettere che ciò accada nuovamente". CosìTommaso Pierazzi, consigliere comunale e coordinatore provinciale. **La consigliera regionale e coordinatrice toscana del M5S, Irene Galletti, risponde all’appello dichiarando:** "La grave incertezza sul futuro della Fimer richiede un intervento immediato da parte della Regione e del Governo nel corso delle trattative. Secondo le informazioni disponibili, da un lato i soci stanno cercando nuovi investitori che possano rilanciare l'industria, presentando un piano industriale credibile. Dall'altro lato, ci sono le preoccupazioni dei 280 lavoratori che, giustamente, si mostrano scettici di fronte alla situazione attuale del gigante degli inverter fotovoltaici, e chiedono risposte dall'azienda e un sostegno da parte della politica di governo." "Per quanto mi riguarda", afferma il rappresentante del Movimento 5 Stelle, "sono fermamente al fianco dei lavoratori e chiedo alla Giunta toscana di dare la massima priorità alla salvaguardia dei posti di lavoro, lavorando per trasferire questa realtà industriale a una proprietà in grado di garantire un futuro solido e di rilanciare un'azienda con il potenziale per competere con successo nel crescente mercato delle energie rinnovabili." "Apprezzo l'intervento del Presidente Giani, che ha incontrato i lavoratori alcuni giorni fa", sottolinea Galletti, "ma occorre un impegno più incisivo. Pertanto presenterò una mozione in Consiglio regionale per coinvolgere tutte le forze politiche presenti nella ricerca di soluzioni, garantendo non solo solidarietà, ma anche il pieno sostegno dell'Assemblea toscana. L'obiettivo è ovviamente preservare la stabilità sociale e finanziaria di tutte le famiglie dei lavoratori coinvolti nella crisi e scongiurare il declino dell'economia locale che verrebbe causato dalla scomparsa di questa importante realtà produttiva" conclude Irene Galletti, consigliera regionale e coordinatrice del Movimento 5 Stelle in Toscana.

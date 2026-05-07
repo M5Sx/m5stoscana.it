@@ -1,0 +1,19 @@
+---
+title: >-
+  Il M5S Toscana apre la corsa alle Regionali: “Serve un’alternativa vera, non
+  un compromesso al ribasso”
+date: '2025-04-12'
+slug: >-
+  2025-04-12-il-m5s-toscana-apre-la-corsa-alle-regionali-serve-unalternativa-vera-non-un-compromesso-al-ribasso
+excerpt: >-
+  Parte da Prato la sfida del Movimento 5 Stelle alle prossime elezioni
+  regionali. Una sala gremita, interventi appassionati e una parola d’ordine ben
+  chiara: cambiare rotta. Al Wall Art Hotel si è aperto ufficialmente il
+  cantiere politico del M5S toscano, con un’assemblea partecipata da attivisti,
+  re
+categories:
+  - Elezioni
+image: /images/post/001.jpg
+---
+
+Parte da Prato la sfida del Movimento 5 Stelle alle prossime elezioni regionali. Una sala gremita, interventi appassionati e una parola d’ordine ben chiara: cambiare rotta. Al Wall Art Hotel si è aperto ufficialmente il cantiere politico del M5S toscano, con un’assemblea partecipata da attivisti, referenti territoriali ed eletti, che ha messo al centro ascolto, confronto e visione. Il messaggio emerso è netto: il Movimento vuole esserci, ma non per fare da comparsa. Vuole essere protagonista in Toscana come in Parlamento, determinante nel costruire un’alternativa politica solida e credibile. E per farlo, mette al centro contenuti concreti e visioni coraggiose, non accordi elettorali di mera convenienza: il focus è stato soprattutto su identità e progettualità. Tre i pilastri programmatici che hanno guidato il confronto: la ferma opposizione alla Multiutility, vista come un pericoloso passo verso la privatizzazione dei servizi pubblici; la difesa senza compromessi della sanità pubblica, in una Toscana dove cresce il peso della sanità privata; e la tutela dell’ambiente, non come slogan ma come bussola trasversale dell’intera azione amministrativa, dalle infrastrutture all’energia. ![](/images/post/003-300x169.jpg)Ma a Prato si è discusso anche, e soprattutto, di alleanze. Un terreno scivoloso, affrontato con franchezza. Il Movimento non chiude la porta al dialogo con altre forze progressiste, ma fissa alcuni paletti. In primo luogo, la necessità di un segno di discontinuità reale con l’attuale gestione regionale. In questo contesto, la figura del presidente uscente Eugenio Giani viene vista con scetticismo: per molti, non rappresenta il cambiamento necessario ad aprire una nuova fase. “Non è una questione personale, ma politica – è stato detto –. Servono volti nuovi, idee nuove e un impianto programmatico che parli davvero alle persone. Continuare con le stesse logiche rischia di svuotare di senso ogni tentativo di rinnovamento”. A rendere ancora più complessa l’equazione è la possibile presenza di Italia Viva in una futura coalizione. E su questo punto le parole sono state meno sfumate: per il M5S, il partito di Matteo Renzi ha rappresentato in questi anni una forza sistematicamente avversaria, che ha cercato di demolire molte delle battaglie simbolo del Movimento, le distanze sono ritenute quasi insanabili. “La convivenza politica con chi ha lavorato per smontare ciò che abbiamo costruito appare oggi, semplicemente, una contraddizione”, ha sintetizzato un esponente territoriale. Nonostante ciò, il Movimento non si chiude nel recinto dell’autosufficienza. Il dialogo resta possibile, ma a partire da basi chiare e condivise. Il messaggio che arriva dai territori è che nessuna eventuale alleanza possa annacquare i contenuti. Il confronto resta aperto, ma su fondamenta solide. Il percorso, intanto, continuerà a ranghi serrati. Altri incontri nei territori seguiranno quello di Prato, con l’obiettivo di costruire una proposta che parta dal basso, dai bisogni reali dei cittadini. Per il M5S Toscana, il punto di partenza è chiaro: non basta essere contro le destre. Serve il coraggio di essere davvero alternativi. E profondamente progressisti.

@@ -1,0 +1,19 @@
+---
+title: >-
+  Ripristinare corse Frecciarossa e rinunciare alla nuova stazione in linea AV,
+  M5S porta le richieste del Comitato di Chiusi in Consiglio Regionale
+date: '2023-06-07'
+slug: >-
+  2023-06-07-ripristinare-corse-frecciarossa-e-rinunciare-alla-nuova-stazione-in-linea-av-m5s-porta-le-richieste-del-comitato-di-chiusi-in-consiglio-regionale
+excerpt: >-
+  "Sposiamo le ragioni del Comitato per la valorizzazione della stazione di
+  Chiusi-Chianciano Terme, chiedendo la riattivazione delle fermate del Freccia
+  Rossa, ma anche la rinuncia al progetto di una nuova stazione in linea per
+  l'Alta Velocità, che sarebbe uno spreco inutile a discapito di investimen
+categories:
+  - Trasporti
+  - Siena
+image: /images/post/Chiusi_Frecciarossa_.jpeg
+---
+
+"Sposiamo le ragioni del Comitato per la valorizzazione della stazione di Chiusi-Chianciano Terme, chiedendo la riattivazione delle fermate del Freccia Rossa, ma anche la rinuncia al progetto di una nuova stazione in linea per l'Alta Velocità, che sarebbe uno spreco inutile a discapito di investimenti più importanti per il territorio." Ad affermarlo è **Irene Galletti, consigliera regionale e coordinatrice toscana del Movimento 5 Stelle**, che annuncia "presenteremo una mozione per chiedere al Consiglio Regionale di esprimersi per il ripristino delle corse e per l'accoglimento delle richieste del Comitato." Per la consigliera regionale bisogna "Ripristinare le corse dei Frecciarossa, potenziare i treni pendolari, rilanciare il progetto del centro Intermodale Merci e migliorare le connessioni ferroviarie tramite il raddoppio con elettrificazione della linea Siena-Chiusi, trasformandola in una metropolitana di superficie tra Chiusi e la Valdichiana. Ma anche realizzare collegamenti stradali più efficienti verso l'Umbria e con i territori limitrofi, magari tenendo conto dell'intermodalità degli spostamenti a servizio dei locali e dei turisti. Sono queste le priorità per il territorio” osserva Galletti, chiarendo che “sono gli stessi cittadini a chiederlo attraverso il Comitato che si è costituito per protestare contro una politica che non si cura più di ascoltarli. Quando tutto questo manca, spendere milioni di euro per spostare l'alta velocità su una nuova stazione in linea nel nulla, per guadagnare pochi minuti, appare come una follia perché probabilmente lo è, oppure perché si tratta di un progetto a servizio di interessi che poco hanno a che vedere con i reali bisogni della popolazione locale." "Questo spreco di soldi deve essere scongiurato, impegneremo il Consiglio regionale ad esprimersi chiaramente con una mozione. Almeno i cittadini potranno giudicare, carte alla mano, quali forze politiche sono davvero dalla loro parte e quali perseguono interessi diversi dai loro." Conclude Galletti. Sulla stessa linea anche **Bonella Martinozzi, Coordinatrice M5S per il territorio senese**, che avverte: “La stazione di Chiusi Chianciano Terme è sempre stata un punto nevralgico della mobilità ferroviaria, la sua posizione territoriale, confinante con l'Umbria, centrale rispetto ai paesi della Valdichiana senese e facilmente raggiungibile anche da San Casciano dei Bagni, Radicofani e i paesi della Val d'Orcia, rende Chiusi l'unica soluzione fattibile per le fermate dei treni ad Alta Velocità.” Per Martinozzi “Le soluzioni proposte dal Presidente Eugenio Giani o dal consigliere regionale Stefano Scaramelli sarebbero un inutile spreco di denaro pubblico, che potrebbe e dovrebbe essere impiegato per la riqualificazione della viabilità ordinaria. Come Movimento 5 Stelle, anche nel Consiglio Comunale aperto, abbiamo ribadito la nostra opposizione ad una stazione in linea e chiesto il potenziamento dell'attuale stazione, non solo per quanto riguarda le fermate dei treni ad alta velocità, ma anche degli Intercity e dei Regionali Veloci, che quotidianamente vengono presi dai numerosi pendolari dei nostri territori.” Conclude la coordinatrice M5S.

@@ -1,0 +1,18 @@
+---
+title: >-
+  Lusochimica, Galletti e Loconsole (M5S):“Interrogazione regionale sul nuovo
+  impianto di rigassificazione previsto nel quartiere La Vettola”
+date: '2023-10-17'
+slug: >-
+  2023-10-17-lusochimica-galletti-e-loconsole-m5sinterrogazione-regionale-sul-nuovo-impianto-di-rigassificazione-previsto-nel-quartiere-la-vettola
+excerpt: >-
+  "La notizia del nuovo impianto di rigassificazione che dovrebbe essere
+  realizzato nel sito produttivo dell'azienda farmaceutica Lusochimica arriva
+  come un fulmine a ciel sereno", afferma Irene Galletti, Presidente del Gruppo
+  Movimento 5 Stelle in Regione Toscana, che annuncia: "Presenteremo un'inter
+categories:
+  - Energia
+image: /images/post/Galletti-Loconsole.jpg
+---
+
+"La notizia del nuovo impianto di rigassificazione che dovrebbe essere realizzato nel sito produttivo dell'azienda farmaceutica Lusochimica arriva come un fulmine a ciel sereno", afferma Irene Galletti, Presidente del Gruppo Movimento 5 Stelle in Regione Toscana, che annuncia: "Presenteremo un'interrogazione alla Giunta regionale per chiedere chiarezza sul progetto, sull'effettivo impatto ambientale che potrebbe avere sulla città di Pisa e sulle motivazioni per cui non è stato ritenuto necessario darne notizia all'amministrazione comunale e ai cittadini". Per Claudio Loconsole, Coordinatore provinciale del M5S: “Questo progetto ha il potenziale per avere impatti significativi sul nostro territorio e sulla vita dei cittadini, e pertanto dovrebbe essere sottoposto a un adeguato e trasparente processo decisionale e partecipativo”. “Il progetto è stato confermato durante una seduta del Consiglio comunale - ricordano Galletti e Loconsole - eppure fino a quel momento la cittadinanza era rimasta all'oscuro di questa iniziativa. È inaccettabile che i cittadini di Pisa non siano stati informati prima su una questione che potrebbe avere conseguenze rilevanti sul quartiere de La Vettola e sull'intera città. Le parole dell'assessora Giulia Gambini rivelano che sono state approfondite alcune questioni relative all'impatto acustico, ma sappiamo ben poco degli altri aspetti cruciali del progetto. Inoltre, l'assessora ha sottolineato che il procedimento di valutazione del progetto è di competenza esclusiva della Regione, sollevando ulteriori preoccupazioni sulla mancanza di coinvolgimento delle istituzioni locali.” “Come Movimento 5 Stelle riteniamo che sia fondamentale difendere il diritto dei cittadini a essere informati e coinvolti in questioni che riguardano direttamente la loro comunità. Pertanto, annunciamo l'intenzione di presentare un'interrogazione in Regione per fare chiarezza su questo progetto. Alcune delle nostre principali preoccupazioni riguardano in primis la mancanza di comunicazione: i cittadini hanno il diritto di essere informati sui progetti che influenzeranno le loro vite. È, inoltre, fondamentale valutare attentamente l'effetto di questo impianto sul nostro ambiente, specialmente in un'epoca in cui la lotta all'emergenza climatica richiede un impegno concreto per ridurre le emissioni e puntare verso fonti energetiche sostenibili. Chiediamo alla Regione Toscana di coinvolgere la cittadinanza in modo adeguato in ogni fase di questo processo decisionale. I cittadini devono avere voce in capitolo sul futuro della loro città.” Il Movimento 5 Stelle si impegna a far chiarezza sulla vicenda e a rappresentare le preoccupazioni della cittadinanza di Pisa. Ciò che è in gioco oggi va oltre la politica partitica, riguarda il benessere e la qualità della vita dei cittadini: la trasparenza e la partecipazione pubblica devono essere pienamente garantite.” Così Irene Galletti, Presidente del Gruppo Movimento 5 Stelle in Regione Toscana e Claudio Loconsole, Coordinatore provinciale del M5S.

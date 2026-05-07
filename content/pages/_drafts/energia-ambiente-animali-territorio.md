@@ -1,0 +1,66 @@
+---
+title: "ENERGIA AMBIENTE TERRITORIO E TUTELA ANIMALE"
+date: "2015-03-23"
+slug: "energia-ambiente-animali-territorio"
+excerpt: "La Toscana può diventare la Regione simbolo della rivoluzione sostenibile . Energia , ambiente e gestione della materia prima secondaria possono essere il mix decisivo per centrare questo obiettivo: l'energia sia nella sua componente di elemento da risparmiare sia nella sua transizione verso una pro"
+image: "/images/Energia.jpg"
+---
+
+La Toscana può diventare la **Regione simbolo della rivoluzione sostenibile**. **Energia**, **ambiente** e **gestione della materia prima secondaria** possono essere il mix decisivo per centrare questo obiettivo: l'energia sia nella sua componente di elemento da risparmiare sia nella sua transizione verso una produzione distribuita e decentrata, l'ambiente da noi letto come tutela profonda del nostro territorio devastato da anni di consumo spregiudicato e inquinamento, il ciclo dei rifiuti come sistema virtuoso di gestione della materia presente in Toscana che la mala-amministrazione attuale destina all'interramento in discariche o all'incenerimento malsano. 
+
+## ENERGIA
+
+ L'**energia più pulita è quella non prodotta e non consumata**. Dobbiamo intervenire abbattendo la domanda energetica, in particolare degli edifici pubblici regionali (ospedali e scuole), sostenendo e promuovendo interventi di **risparmio energetico** (cappotti termici, infissi a bassa dispersione e tetti coibentati). La **domanda interna** di energia elettrica e termica, opportunamente razionalizzata, deve essere **coperta da una produzione interna** e questa deve avere origine da **fonti rinnovabili**. Per questo vogliamo autorizzare **nuovi impianti di produzione energetica solo se da fonti rinnovabili** e **sostenere famiglie e aziende nell'autonomia energetica**, contribuendo all'installazione di impianti di produzione di energia elettrica e/o termica e agli **interventi di risparmio energetico**. Crediamo nella **produzione distribuita e decentrata dell'energia**, da mettere **in rete**. La domanda dell'installazione di impianti può crescere se consentiamo l'**installazione di qualsiasi impianto solare domestico su copertura senza iter autorizzativo**, anche in zone a vincolo, e se la sostiamo con **incentivi diretti**. Per quanto riguarda le aziende è necessario rendere più **snelli e veloci i bandi di accesso** a finanziamenti per installazione di impianti da fonti rinnovabili. Le lungaggini e la complessità delle procedure rendono infatti questi utili strumenti tutt'ora esistenti, poco appetibili. Noi siamo **contro la geotermia ad alta [entalpia](http://it.wikipedia.org/wiki/Entalpia)**, ma vogliamo **favorire i piccoli impianti geotermici domestici**, a bassa entalpia. 
+
+## 
+
+## PIANO DEL TERRITORIO
+
+ Il **nostro territorio è il bene più prezioso** che abbiamo ereditato e ci sentiamo responsabili della sua **difesa** e **valorizzazione**. Proponiamo 
+* Corretta pianificazione del territorio e **messa in sicurezza dal rischio sismico e idrogeologico**;
+* Miglioramento dei sistemi di monitoraggio e previsione del **rischio sismico e idrogeologico e piani d'emergenza**;
+* Stop a nuove costruzioni e impulso a **recuperi e riqualificazioni**;
+* Introduzione dell’**invarianza idraulica**, ovvero se fai un intervento il saldo dell’impermeabilizzazione del suolo deve essere nullo;
+* **Piano di ricollocazione** di **costruzioni** ubicate in aree mappate a rischio;
+* Progettazione di [**centri urbani resilienti** ](http://www.ambienteambienti.com/riflettiamo-sul-sociale/2010/08/news/la-citta-resiliente-1a-parte-9218.html)per restituire alla natura di sviluppare le proprie dinamiche senza arrecare danno agli insediamenti umani;
+* Sostegno al **recupero di terreni agricoli montano-collinari abbandonati** e alle **attività agricole in terreni incolti**, manutenzione o realizzazione di terrazzamenti o muri a secco, impiego di aratura a giropoggio invece che a rittopoggio;
+* Avvio di un **piano di verifica sui gradi di funzionalità e protezione degli argini**, in modo da individuare e intervenire sulle sezioni arginali dove potrebbero generarsi le prossime rotte arginali che negli anni scorsi hanno avuto effetti disastrosi in Toscana;
+* **Svuotamento degli invasi** utilizzabili per la laminazione delle piene ed adeguamento e rinaturalizzazione delle aree golenali e restaurazione fluviale;
+* Elaborazione di un **piano per mettere in sicurezza gli edifici pubblici esposti a rischio sismico**;
+* Sostegno alla rete di pluviometri e nivometri;
+* Predisposizione di un piano per la verifica ed eventuale revisione dei **piani di emergenza comunali, coinvolgendo Protezione Civile**;
+* **Promozione della speleologia** anche in ambito di collaborazione con enti e amministrazioni locali;
+* Progressiva **diminuzione delle attività estrattive presenti e divieto di ri-apertura di cave dismesse**;
+* **Obbligo del rapporto blocchi/scarti minimo al 50% sull'escavato**;
+* Sostegno e promozione del **monitoraggio Arpat per la gestione delle acque di lavorazione**;
+* Sostegno alla **verifica di illegalità per la mancanza di raccolta delle acque a piè di taglio**, per l’assenza o il mancato utilizzo degli impianti di depurazione;
+* **Piani estrattivi di bacino elaborati in relazione ai bacini idrografici** per la salvaguardia idrica.
+
+## URBANISTICA A CONSUMO ZERO E BONIFICHE
+
+* **Verifica** obbligatoria dell’effettivo **fabbisogno di nuova edificazione**, privilegiando il **recupero dell’edificato**;
+* Obbligo per la nuova edificazione di applicazione di principi costruttivi in **Bioarchitettura e Bioedilizia**;
+* Vincolo di **inedificabilità assoluta sui sistemi dunali** presenti su tutto il territorio regionale;
+* **Mappatura edifici pubblici ad uso residenziale per recupero e pieno utilizzo anche per l’edilizia popolare**, anche con l’ausilio dei finanziamenti europei;
+* Riutilizzo dell'edificato abbandonato dalla pianura alla montagna;
+* **Impedire la realizzazione di nuovi centri commerciali** o l'ampliamento degli esistenti, aiutando la ricollocazione di attività commerciali nei centri cittadini, puntando a realizzare i cd "**centri commerciali naturali**";
+* Recuperare, mettere in sicurezza e **ristrutturare energeticamente il patrimonio immobiliare pubblico**;
+* Recuperare e **valorizzare il patrimonio**, architettonico, museale agricolo ed industriale storico e di pregio;
+* Censimento del patrimonio immobiliare regionale inutilizzato, al fine di realizzare **incubatori d’impresa e aree di co-working concesse in comodato d’uso gratuito** e dedicate al supporto di nuove realtà imprenditoriali in grado di sviluppare prodotti e/o servizi innovativi;
+* Riqualificazione di tessuti urbani degradati tramite l’inserimento dei **corridoi ecologici e l’implementazione delle aree a verde pubblico** anche con forme innovative di fruizione (orti urbani biologici);
+* Obbligo di **parametrare gli strumenti urbanistici locali al reale fabbisogno**, valutato sull’andamento demografico e sul trend dell’ultimo quinquennio: ogni comune dovrà redigere un’indagine statistica che metta in evidenza lo stato dell’uso degli immobili e le relative dinamiche insediative, nonchè il reale incremento demografico della propria comunità;
+* Obbligo di identificazione dei perimetri delle aree urbane nei piani urbanistici comunali;
+* **Sostegno alle bonifiche aree industriali (SIN e SIR) e portuali.**
+
+## TUTELA E BENESSERE ANIMALE
+
+ Il Movimento 5 Stelle ritiene necessaria un’etica fondata sul **diritto all’esistenza di tutte le specie**, nel quadro dell’equilibrio naturale della **biodiversità**. L'essere umano ha il dovere di rispettare gli esseri viventi e senzienti in ogni forma, da questo deve derivare un impegno forte per ridurre ed eliminare lo sfruttamento, la sofferenza, la violenza, l’abuso, la distruzione nell’ambito della comunità biologica a cui l'essere appartiene e dalla quale dipende. Ogni specie, ogni individuo, contribuisce ad assicurare la stabilità naturale e la sopravvivenza di tutti i suoi componenti e possiede diritti naturali ad un’esistenza degna; per tale ragione il Movimento lavorerà nella direzione dell'**estensione dei diritti** e si farà **promotore di buone pratiche** più rispettose degli animali e dell'ambiente a partire dall'Ecologia della Nutrizione. 
+* **Normative.** Non ci saranno deroghe a normative nazionali ed europee sulla tutela degli animali
+* **Caccia.** La caccia non è uno sport. Riorganizzazione degli ambiti territoriali di caccia con limitazioni nella programmazione. Introduzione di un più efficace e incisivo controllo da parte della Regione sull’attività di gestione faunistico venatoria. Divieto di utilizzo di richiami vivi. Controllo della gestione dei cani da caccia e della loro detenzione in gabbie o baracche. No alla caccia al cinghiale con l’ausilio di cani da caccia, anche se addestrati. Promozione di metodiche non cruente nel controllo della popolazione animale. Inasprimento delle pene per l'inquinamento derivante dalla dispersione di proiettili ed altri materiali inquinanti.
+* **Pesca.** La pesca deve diventare più sostenibile, compatibile con il turismo, la qualità dell’acqua e balneabilità futura; i metodi di pesca devono essere meno impattanti e più selettivi, con creazione di zone di ripopolamento alternate a zone di concessione. Incremento dei controlli in mare contro le attività di frodo, con particolare attenzione alla pesca abusiva dei delfini. Fermo biologico per un periodo deciso in base a valutazioni di esperti. Valorizzazione della pratica di rilascio del pescato nella pesca sportiva.
+* **Allevamenti.** L’obbiettivo principale è proteggere gli animali da allevamento da ulteriori ed inutili sofferenze o lesioni, relativamente al sito di allevamento (spazio e condizioni ambientali), all’alimentazione, alla salute degli animali. No all’ allevamento intensivo. Divieto di allevamento di animali da pelliccia e correlato divieto di vendita di pelli e pellicce di animali d'affezione (cani e gatti) o specie protette, non solo in Italia. Organizzazione di controlli ed ispezioni negli allevamenti. Tutela, sostegno e controllo del patrimonio apistico regionale, che costituisce una eccellenza del nostro territorio.
+* **Territorio.** Protezione, gestione e salvaguardia della natura in ogni contesto (alpi, vette, colli, aree rurali e urbane); allestimento di parchi agricoli e naturali in tutte le zone da gestire e di pregio; protezione degli habitat e individuazione dei corridoi ecologici. Tutela e valorizzazione dei parchi come insieme indivisibile di natura-paesaggio-storia. Sostegno alla gestione professionale del sistema delle aree protette, valorizzate delle attività economiche e turistiche compatibili con la tutela ambientale. Potenziamento degli interventi di manutenzione forestale montana e dei litorali con tecniche di ingegneria naturalistica e l’utilizzo di materiali reperiti in loco
+* **Circhi, zoo, mostre.** Divieto all’attendamento nel territorio regionale di circhi e mostre viaggianti con animali di qualsiasi specie al seguito. Si comprendono anche: cavalli, cani, gatti, colombe ed uccelli, conigli, primati, delfini, lupi, orsi, grandi felini, serpenti, foche, elefanti, rinoceronti, ippopotami, giraffe, rapaci diurni e notturni, senza esclusione di sorta. Progressiva chiusura di zoo e sagre fondate sulla detenzione e sfruttamento degli animali. No all'apertura di nuovi zoo, delfinari, e luoghi di coercizione degli animali.
+* **Vivisezione.** Promozione, sviluppo e sostegno dei metodi sostitutivi alla sperimentazione su animali negli istituti di ricerca su tutto il territorio regionale, con relativa formazione del personale operante.
+* **Cani, gatti e rifugi per animali.** Obbligo per ogni Comune di organizzare la sistemazione dei cani e dei gatti vaganti sul territorio in strutture municipali, non decentrate dai centri abitati, anche in accordo con Comuni limitrofi, che garantiscano il benessere e le cure degli animali raccolti, a seconda delle loro necessità fisiologiche ed etologiche. La Regione contribuirà al finanziamento per la costruzione o ristrutturazione di canili sanitari, canili rifugio e gattili, che offrano agli animali un luogo protetto e ospitale e alla popolazione uno spazio di socializzazione sereno e gioioso al principale scopo di portare gli animali ad adozione. Le stesse strutture saranno organizzate in modo da garantire assistenza sanitaria agli animali presenti e un servizio di pronto soccorso. Massima attenzione alle campagne di sterilizzazione per il controllo della popolazione canina e felina e la prevenzione del randagismo. Organizzazione di una assistenza veterinaria gratuita per gli animali adottati da cittadini con disagio economico. Divieto di detenzione a catena. Promozione e sostegno dei rifugi per animali da allevamento, liberati o rilasciati dai laboratori di ricerca, anziani o di difficile adozione.
+* **Rapporto con la cittadinanza.** Oltre a tenere la barra dritta sulle normative, daremo spazio e ascolto a chi i territori li vive per l’individuazione e risoluzione di abusi e criticità. Un ufficio specifico sarà dedicato alla raccolta delle segnalazioni ed istanze della cittadinanza e delle associazioni.

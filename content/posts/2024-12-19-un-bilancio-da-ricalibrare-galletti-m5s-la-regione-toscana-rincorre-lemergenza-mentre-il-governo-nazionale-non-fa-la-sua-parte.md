@@ -1,0 +1,19 @@
+---
+title: >-
+  Un Bilancio da Ricalibrare: Galletti (M5S): “La Regione Toscana rincorre
+  l’emergenza, mentre il governo nazionale non fa la sua parte”
+date: '2024-12-19'
+slug: >-
+  2024-12-19-un-bilancio-da-ricalibrare-galletti-m5s-la-regione-toscana-rincorre-lemergenza-mentre-il-governo-nazionale-non-fa-la-sua-parte
+excerpt: >-
+  “Un bilancio che cerca di affrontare le urgenze del presente, ma che manca di
+  una visione solida per il futuro. La Regione Toscana, stretta tra vincoli
+  finanziari e risorse limitate, è costretta a sacrificare la strategia di lungo
+  termine in favore di interventi frammentari, spesso insufficienti a r
+categories:
+  - Bilancio
+  - Turismo e Cultura
+image: /images/post/Irene-Galletti-capogruppo-Movimento-5-stelle.jpg
+---
+
+“Un bilancio che cerca di affrontare le urgenze del presente, ma che manca di una visione solida per il futuro. La Regione Toscana, stretta tra vincoli finanziari e risorse limitate, è costretta a sacrificare la strategia di lungo termine in favore di interventi frammentari, spesso insufficienti a rispondere ai bisogni dei cittadini. Questa situazione è aggravata da un Governo nazionale che continua a penalizzare le Regioni con tagli e una gestione miope delle risorse,” afferma Irene Galletti, Presidente del Gruppo Movimento 5 Stelle Toscana, commentando la Proposta di Legge n. 287, il Bilancio di Previsione Finanziario 2025-2027, presentata dalla Giunta Regionale. “Termini come 'Emergenza', 'Contributo Straordinario' e 'Interventi Urgenti' compaiono oltre 260 volte in questo documento,” osserva Galletti. “Ciò dimostra un modello gestionale che rincorre l’emergenza invece di prevenirla. La straordinarietà non può diventare la norma. Questo non è un problema esclusivo della Toscana, ma una difficoltà comune a molte Regioni, aggravata dall'incapacità del Governo Meloni di interpretare correttamente la situazione del Paese e intervenire con misure strutturali.” Il bilancio regionale presenta tagli significativi: -26,9 milioni per l’Assetto del Territorio ed Edilizia Abitativa, -16 milioni per la Tutela dell’Ambiente e -73 milioni per i Diritti Sociali e le Politiche per la Famiglia. Anche il Fondo per la Non Autosufficienza subisce una riduzione di 25 milioni di euro. Secondo il Movimento 5 Stelle, senza i 200 miliardi di fondi europei ottenuti grazie al Governo Conte, la situazione sarebbe stata ancora più complicata. “Il PNRR, criticato in passato da esponenti dell’attuale governo Meloni, inclusa la Presidente del Consiglio che oggi ne beneficia, rappresenta l’unica ancora di salvezza. Diverse riduzioni di spesa nel bilancio regionale sono state parzialmente compensate proprio grazie a questi fondi. Come potremmo continuare a sostenere il nostro tessuto economico e sociale nei prossimi anni, senza il risultato straordinario ottenuto da Giuseppe Conte in Europa?” si chiede Galletti. Anche la sanità, nonostante un incremento apparente di 342 milioni di euro, resta un punto critico. “Una volta considerati inflazione, rincari energetici e adeguamenti contrattuali, le risorse rischiano di essere insufficienti per migliorare i servizi,” spiega Galletti. “Le difficoltà del sistema sanitario pubblico sono evidenti, ma anche in questo caso ci sono responsabilità da distribuire anche a Roma.” Galletti propone alcune soluzioni: “Serve una pianificazione strategica che superi la logica dei fondi straordinari, strumenti di monitoraggio per valutare i risultati degli investimenti e una rendicontazione trasparente. Solo così si potrà costruire una Toscana più resiliente e competitiva.” Conclude: “È necessario che la Giunta regionale adotti un cambio di passo e che il Governo nazionale faccia la sua parte. I toscani meritano istituzioni che collaborino per affrontare le sfide del presente e costruire un futuro migliore.”
