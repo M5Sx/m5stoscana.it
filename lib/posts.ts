@@ -91,7 +91,7 @@ export function getAdjacentPosts(slug: string): { prev: PostMeta | null; next: P
 }
 
 export function getAllCategories(): { label: string; slug: string }[] {
-  const posts = getAllPosts();
+  const posts = [...getAllPosts(), ...getNewspressPosts()];
   const map = new Map<string, string>(); // slug → label
   posts.forEach((p) =>
     p.categories?.forEach((c) => {
@@ -105,9 +105,9 @@ export function getAllCategories(): { label: string; slug: string }[] {
 }
 
 export function getPostsByCategory(categorySlug: string): PostMeta[] {
-  return getAllPosts().filter((p) =>
-    p.categories?.some((c) => slugifyCategory(c) === categorySlug)
-  );
+  return [...getAllPosts(), ...getNewspressPosts()]
+    .filter((p) => p.categories?.some((c) => slugifyCategory(c) === categorySlug))
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getCategoryLabel(categorySlug: string): string {
