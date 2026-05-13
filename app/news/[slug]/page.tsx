@@ -1,11 +1,11 @@
-import { getAllPosts, getNewspressPosts, getPost, getAdjacentPosts, slugifyCategory } from "@/lib/posts";
+import { getAllPosts, getPost, getAdjacentPosts, slugifyCategory } from "@/lib/posts";
 import FilterBar from "@/components/FilterBar";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
-  return [...getAllPosts(), ...getNewspressPosts()].map((post) => ({ slug: post.slug }));
+  return getAllPosts().map((post) => ({ slug: post.slug }));
 }
 
 export async function generateMetadata({
