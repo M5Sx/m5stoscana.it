@@ -17,7 +17,6 @@ export function slugifyCategory(cat: string): string {
 }
 
 const postsDir = path.join(process.cwd(), "content/posts");
-const newspressDir = path.join(process.cwd(), "content/posts/newspress");
 const pagesDir = path.join(process.cwd(), "content/pages");
 
 export interface PostMeta {
@@ -39,26 +38,6 @@ export function getAllPostSlugs(): string[] {
     .readdirSync(postsDir)
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
-}
-
-export function getNewspressPosts(): PostMeta[] {
-  if (!fs.existsSync(newspressDir)) return [];
-  return fs
-    .readdirSync(newspressDir)
-    .filter((f) => f.endsWith(".md"))
-    .map((f) => {
-      const fullPath = path.join(newspressDir, `${f}`);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
-      const { data } = matter(fileContents);
-      const slug = data.slug || f.replace(/\.md$/, "");
-      return {
-        title: data.title ?? slug,
-        date: data.date ?? "",
-        slug,
-        categories: data.categories ?? [],
-      } as PostMeta;
-    })
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 export function getAllPosts(): PostMeta[] {
@@ -91,7 +70,7 @@ export function getAdjacentPosts(slug: string): { prev: PostMeta | null; next: P
 }
 
 export function getAllCategories(): { label: string; slug: string }[] {
-  const posts = [...getAllPosts(), ...getNewspressPosts()];
+  const posts = getAllPosts();
   const map = new Map<string, string>(); // slug → label
   posts.forEach((p) =>
     p.categories?.forEach((c) => {
@@ -105,7 +84,7 @@ export function getAllCategories(): { label: string; slug: string }[] {
 }
 
 export function getPostsByCategory(categorySlug: string): PostMeta[] {
-  return [...getAllPosts(), ...getNewspressPosts()]
+  return getAllPosts()
     .filter((p) => p.categories?.some((c) => slugifyCategory(c) === categorySlug))
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
@@ -121,8 +100,7 @@ export async function getPost(slug: string): Promise<Post | null> {
   let filePath = fs.existsSync(directPath) ? directPath : null;
 
   if (!filePath) {
-    const searchDirs = [postsDir, newspressDir].filter(fs.existsSync);
-    outer: for (const dir of searchDirs) {
+    outer: for (const dir of [postsDir].filter(fs.existsSync)) {
       const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
       for (const file of files) {
         const fp = path.join(dir, file);
