@@ -1,9 +1,10 @@
 import Link from "next/link";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, getNewspressPosts } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 
 export default function HomePage() {
   const posts = getAllPosts().slice(0, 6);
+  const newspressPosts = getNewspressPosts().slice(0, 8);
 
   return (
     <div>
@@ -40,6 +41,37 @@ export default function HomePage() {
           </Link>
         </div>
       </section>
+
+      {/* Comunicati stampa */}
+      {newspressPosts.length > 0 && (
+        <section className="max-w-6xl mx-auto px-4 py-12">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b-2 border-[#385D80] pb-2">
+            Comunicati Stampa
+          </h2>
+          <ul className="divide-y divide-gray-100">
+            {newspressPosts.map((post) => {
+              const dateStr = post.date
+                ? new Date(post.date).toLocaleDateString("it-IT", { day: "numeric", month: "long", year: "numeric" })
+                : "";
+              return (
+                <li key={post.slug}>
+                  <Link
+                    href={`/news/${post.slug}`}
+                    className="flex items-baseline gap-4 py-3 hover:text-[#385D80] group"
+                  >
+                    {dateStr && (
+                      <span className="text-xs text-gray-400 shrink-0 w-32">{dateStr}</span>
+                    )}
+                    <span className="text-sm font-medium text-gray-800 group-hover:text-[#385D80] leading-snug">
+                      {post.title}
+                    </span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
 
       {/* Newsletter + Linktree */}
       <section className="bg-[#385D80] text-white py-14 px-4">

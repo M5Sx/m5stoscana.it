@@ -1,10 +1,11 @@
-import { getAllPosts, getPost, getAdjacentPosts, slugifyCategory } from "@/lib/posts";
+import { getAllPosts, getNewspressPosts, getPost, getAdjacentPosts, slugifyCategory } from "@/lib/posts";
+import FilterBar from "@/components/FilterBar";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
-  return getAllPosts().map((post) => ({ slug: post.slug }));
+  return [...getAllPosts(), ...getNewspressPosts()].map((post) => ({ slug: post.slug }));
 }
 
 export async function generateMetadata({
@@ -37,6 +38,7 @@ export default async function PostPage({
 
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
+      <FilterBar />
       {post.image && (
         // eslint-disable-next-line @next/next/no-img-element
         <img

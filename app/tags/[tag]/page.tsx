@@ -1,5 +1,6 @@
 import { getAllCategories, getPostsByCategory, getCategoryLabel } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
+import FilterBar from "@/components/FilterBar";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
@@ -19,9 +20,8 @@ export default async function TagPage({ params }: { params: Promise<{ tag: strin
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-12">
-      <h1 className="text-3xl font-bold text-gray-900 mb-8 border-b-2 border-[#385D80] pb-2">
-        {label}
-      </h1>
+      <h1 className="text-3xl font-bold text-gray-900 mb-4">{label}</h1>
+      <FilterBar activeTag={tag} />
       {posts.length === 0 ? (
         <p className="text-gray-500">Nessun articolo trovato.</p>
       ) : (

@@ -8,10 +8,8 @@ const navLinks = [
   { label: "Home", href: "/" },
   { label: "Chi Siamo", href: "/chi-siamo" },
   { label: "Programma", href: "/programma" },
-  
   { label: "News", href: "/news" },
-  { label: "Tags", href: "/tags" },
-  { label: "Newsletter", href: "https://m5stoscana.substack.com/", external: true },
+  { label: "Comunicati Stampa", href: "/tags/comunicati-stampa" },
   { label: "Contatti", href: "/contatti" },
 ];
 
@@ -36,17 +34,11 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-1">
-          {navLinks.map((link) =>
-            link.external ? (
-              <a key={link.href} href={link.href} target="_blank" rel="noopener noreferrer" className="px-3 py-2 rounded hover:bg-white/10 text-sm font-medium uppercase tracking-wide">
-                {link.label}
-              </a>
-            ) : (
-              <Link key={link.href} href={link.href} className="px-3 py-2 rounded hover:bg-white/10 text-sm font-medium uppercase tracking-wide">
-                {link.label}
-              </Link>
-            )
-          )}
+          {navLinks.map((link) => (
+            <Link key={link.href} href={link.href} className="px-3 py-2 rounded hover:bg-white/10 text-sm font-medium uppercase tracking-wide">
+              {link.label}
+            </Link>
+          ))}
         </nav>
 
         {/* Mobile hamburger */}
@@ -60,17 +52,11 @@ export default function Navbar() {
       {/* Mobile menu */}
       {open && (
         <nav className="md:hidden bg-[#2d4e6e] px-4 pb-4 flex flex-col gap-1">
-          {navLinks.map((link) =>
-            link.external ? (
-              <a key={link.href} href={link.href} target="_blank" rel="noopener noreferrer" className="py-2 border-b border-white/20 text-sm">
-                {link.label}
-              </a>
-            ) : (
-              <Link key={link.href} href={link.href} className="py-2 border-b border-white/20 text-sm" onClick={() => setOpen(false)}>
-                {link.label}
-              </Link>
-            )
-          )}
+          {navLinks.map((link) => (
+            <Link key={link.href} href={link.href} className="py-2 border-b border-white/20 text-sm" onClick={() => setOpen(false)}>
+              {link.label}
+            </Link>
+          ))}
         </nav>
       )}
     </header>
