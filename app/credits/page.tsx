@@ -63,6 +63,9 @@ export default function CreditsPage() {
           Il sito non utilizza cookie di tracciamento, non raccoglie dati
           personali e non dipende da servizi di terze parti a pagamento.
         </p>
+
+<p><a href="https://drive.google.com/drive/folders/1LsurR2xKZdVAunDKVEPOl_BILbgLPjUO" target="_blank" rel="noopener noreferrer" className="text-[#385D80] hover:underline">GDR</a></p>
+
       </div>
     </div>
   );
