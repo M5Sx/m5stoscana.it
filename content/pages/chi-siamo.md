@@ -19,3 +19,4 @@ Il Movimento 5 Stelle è una libera associazione di cittadini. Non è un partito
 | **Attività** | Attività delle organizzazioni politiche |
 | **Codice fiscale** | 94343970482 |
 | **Domicilio fiscale** | Via Camillo Benso Conte di Cavour 2/4, 50129 Firenze |
+

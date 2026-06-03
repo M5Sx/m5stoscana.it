@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import remarkGfm from "remark-gfm";
 
 export function slugifyCategory(cat: string): string {
   return cat
@@ -117,7 +118,7 @@ export async function getPost(slug: string): Promise<Post | null> {
   const fileContents = fs.readFileSync(filePath, "utf8");
   const filename = path.basename(filePath, ".md");
   const { data, content } = matter(fileContents);
-  const processed = await remark().use(html).process(content);
+  const processed = await remark().use(remarkGfm).use(html).process(content);
   return {
     title: data.title ?? slug,
     date: data.date ?? "",
@@ -134,7 +135,7 @@ export async function getPage(slug: string): Promise<Post | null> {
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
-  const processed = await remark().use(html).process(content);
+  const processed = await remark().use(remarkGfm).use(html).process(content);
   return {
     title: data.title ?? slug,
     date: data.date ?? "",
