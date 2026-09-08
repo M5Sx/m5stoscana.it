@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { PostMeta } from "@/lib/posts";
 import { slugifyCategory } from "@/lib/posts";
 
-export default function PostCard({ post }: { post: PostMeta }) {
+export default function PostCard({ post, basePath = "/news" }: { post: PostMeta; basePath?: string }) {
   const dateStr = post.date
     ? new Date(post.date).toLocaleDateString("it-IT", {
         day: "numeric",
@@ -13,7 +13,7 @@ export default function PostCard({ post }: { post: PostMeta }) {
 
   return (
     <article className="relative bg-white rounded-lg shadow hover:shadow-md transition-shadow overflow-hidden border border-gray-100">
-      <Link href={`/news/${post.slug}`} className="absolute inset-0 z-0" aria-label={post.title} />
+      <Link href={`${basePath}/${post.slug}`} className="absolute inset-0 z-0" aria-label={post.title} />
       {post.image && (
         <div className="h-48 overflow-hidden bg-gray-100">
           {/* eslint-disable-next-line @next/next/no-img-element */}

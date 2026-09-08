@@ -17,6 +17,12 @@ export function slugifyCategory(cat: string): string {
     .replace(/^-|-$/g, "");
 }
 
+function toArray(v: unknown): string[] {
+  if (Array.isArray(v)) return v;
+  if (typeof v === "string" && v.trim()) return [v.trim()];
+  return [];
+}
+
 const postsDir = path.join(process.cwd(), "content/posts");
 const pagesDir = path.join(process.cwd(), "content/pages");
 
@@ -27,6 +33,11 @@ export interface PostMeta {
   excerpt?: string;
   categories?: string[];
   image?: string;
+  number?: number;
+  senderEmail?: string;
+  tags?: string[];
+  time?: string;
+  draft?: boolean;
 }
 
 export interface Post extends PostMeta {
@@ -53,10 +64,14 @@ export function getAllPosts(): PostMeta[] {
         date: data.date ?? "",
         slug: data.slug || slug,
         excerpt: data.excerpt ?? "",
-        categories: data.categories ?? [],
+        categories: toArray(data.categories),
         image: data.image ?? null,
+        number: data.number ?? undefined,
+        senderEmail: data.senderEmail ?? undefined,
+        draft: data.draft ?? false,
       } as PostMeta;
     })
+    .filter((post) => !post.draft)
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
@@ -118,14 +133,18 @@ export async function getPost(slug: string): Promise<Post | null> {
   const fileContents = fs.readFileSync(filePath, "utf8");
   const filename = path.basename(filePath, ".md");
   const { data, content } = matter(fileContents);
+  if (data.draft) return null;
   const processed = await remark().use(remarkGfm).use(html).process(content);
   return {
     title: data.title ?? slug,
     date: data.date ?? "",
     slug: data.slug || filename,
     excerpt: data.excerpt ?? "",
-    categories: data.categories ?? [],
+    categories: toArray(data.categories),
     image: data.image ?? null,
+    number: data.number ?? undefined,
+    senderEmail: data.senderEmail ?? undefined,
+    draft: false,
     contentHtml: processed.toString(),
   };
 }
@@ -141,7 +160,7 @@ export async function getPage(slug: string): Promise<Post | null> {
     date: data.date ?? "",
     slug: data.slug || slug,
     excerpt: data.excerpt ?? "",
-    categories: data.categories ?? [],
+    categories: toArray(data.categories),
     image: data.image ?? null,
     contentHtml: processed.toString(),
   };

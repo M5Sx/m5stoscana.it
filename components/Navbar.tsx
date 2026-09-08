@@ -9,6 +9,7 @@ const navLinks = [
   { label: "Chi Siamo", href: "/chi-siamo" },
   { label: "Programma", href: "/programma" },
   { label: "News", href: "/news" },
+  { label: "Comunicati Stampa", href: "/comunicati-stampa" },
   { label: "Newsletter", href: "/tags/newsletter" },
   { label: "Contatti", href: "/contatti" },
 ];

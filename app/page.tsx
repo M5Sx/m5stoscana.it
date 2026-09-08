@@ -1,9 +1,12 @@
 import Link from "next/link";
 import { getAllPosts } from "@/lib/posts";
+import { getAllPressReleases } from "@/lib/pressreleases";
 import PostCard from "@/components/PostCard";
+import PressReleaseRow from "@/components/PressReleaseRow";
 
 export default function HomePage() {
   const posts = getAllPosts().slice(0, 6);
+  const pressReleases = getAllPressReleases().slice(0, 15);
 
   return (
     <div>
@@ -37,6 +40,30 @@ export default function HomePage() {
             className="inline-block bg-[#385D80] text-white px-6 py-3 rounded-lg font-medium hover:bg-[#2d4e6e] transition"
           >
             Tutte le notizie
+          </Link>
+        </div>
+      </section>
+
+      {/* Latest press releases */}
+      <section className="max-w-3xl mx-auto px-4 py-14">
+        <h2 className="text-2xl font-bold text-gray-900 mb-8 border-b-2 border-[#385D80] pb-2">
+          Ultimi Comunicati Stampa
+        </h2>
+        {pressReleases.length === 0 ? (
+          <p className="text-gray-500">Nessun comunicato disponibile.</p>
+        ) : (
+          <div className="flex flex-col">
+            {pressReleases.map((post) => (
+              <PressReleaseRow key={post.slug} post={post} />
+            ))}
+          </div>
+        )}
+        <div className="text-center mt-10">
+          <Link
+            href="/comunicati-stampa"
+            className="inline-block bg-[#385D80] text-white px-6 py-3 rounded-lg font-medium hover:bg-[#2d4e6e] transition"
+          >
+            Tutti i comunicati
           </Link>
         </div>
       </section>
