@@ -48,7 +48,15 @@ function EventIcon() {
   );
 }
 
-export default function PressReleaseRow({ post }: { post: PostMeta }) {
+export default function PressReleaseRow({
+  post,
+  basePath = "/comunicati",
+  kindLabel,
+}: {
+  post: PostMeta;
+  basePath?: string;
+  kindLabel?: string;
+}) {
   const dateStr = post.date
     ? new Date(post.date).toLocaleDateString("it-IT", {
         day: "numeric",
@@ -61,18 +69,25 @@ export default function PressReleaseRow({ post }: { post: PostMeta }) {
 
   return (
     <article className="relative flex items-start gap-4 py-4 border-b border-gray-200 hover:bg-gray-50 transition-colors px-2 -mx-2 rounded">
-      <Link href={`/comunicati-stampa/${post.slug}`} className="absolute inset-0 z-0" aria-label={post.title} />
+      <Link href={`${basePath}/${post.slug}`} className="absolute inset-0 z-0" aria-label={post.title} />
 
       <div className="shrink-0 w-10 h-10 rounded-full bg-[#385D80]/10 flex items-center justify-center text-[#385D80]">
         {isEvent ? <EventIcon /> : <DocumentIcon />}
       </div>
 
       <div className="min-w-0 flex-1">
-        {dateStr && (
-          <time className="block text-sm text-gray-400" dateTime={post.date}>
-            {dateStr}
-          </time>
-        )}
+        <div className="flex items-center gap-2 flex-wrap">
+          {dateStr && (
+            <time className="block text-sm text-gray-400" dateTime={post.date}>
+              {dateStr}
+            </time>
+          )}
+          {kindLabel && (
+            <span className="text-[10px] font-semibold uppercase tracking-wide text-gray-400 bg-gray-100 px-1.5 py-0.5 rounded">
+              {kindLabel}
+            </span>
+          )}
+        </div>
         <h2 className="text-base font-semibold text-gray-900 leading-snug mt-1">
           {post.title}
         </h2>
@@ -81,7 +96,7 @@ export default function PressReleaseRow({ post }: { post: PostMeta }) {
             {post.tags.map((tag) => (
               <Link
                 key={tag}
-                href={`/comunicati-stampa/tag/${slugifyCategory(tag)}`}
+                href={`/tag/${slugifyCategory(tag)}`}
                 className="text-xs bg-[#385D80]/10 text-[#2d4e6e] px-2 py-0.5 rounded-full hover:bg-[#385D80]/20"
               >
                 {tag}

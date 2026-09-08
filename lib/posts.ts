@@ -68,6 +68,7 @@ export function getAllPosts(): PostMeta[] {
         image: data.image ?? null,
         number: data.number ?? undefined,
         senderEmail: data.senderEmail ?? undefined,
+        tags: toArray(data.tags),
         draft: data.draft ?? false,
       } as PostMeta;
     })
@@ -144,6 +145,7 @@ export async function getPost(slug: string): Promise<Post | null> {
     image: data.image ?? null,
     number: data.number ?? undefined,
     senderEmail: data.senderEmail ?? undefined,
+    tags: toArray(data.tags),
     draft: false,
     contentHtml: processed.toString(),
   };

@@ -67,6 +67,19 @@ export default async function PostPage({
         {dateStr && (
           <p className="text-sm text-gray-400">{dateStr}</p>
         )}
+        {post.tags && post.tags.length > 0 && (
+          <div className="flex gap-2 mt-3 flex-wrap">
+            {post.tags.map((tag) => (
+              <Link
+                key={tag}
+                href={`/tag/${slugifyCategory(tag)}`}
+                className="text-xs bg-[#385D80]/10 text-[#2d4e6e] px-2 py-0.5 rounded-full hover:bg-[#385D80]/20"
+              >
+                {tag}
+              </Link>
+            ))}
+          </div>
+        )}
       </header>
       <div
         className="prose prose-lg prose-blue max-w-none"

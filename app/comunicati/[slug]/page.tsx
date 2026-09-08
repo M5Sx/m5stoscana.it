@@ -76,7 +76,7 @@ export default async function PressReleaseDetailPage({
             {post.tags.map((tag) => (
               <Link
                 key={tag}
-                href={`/comunicati-stampa/tag/${slugifyCategory(tag)}`}
+                href={`/tag/${slugifyCategory(tag)}`}
                 className="text-xs bg-[#385D80]/10 text-[#2d4e6e] px-2 py-0.5 rounded-full hover:bg-[#385D80]/20"
               >
                 {tag}
@@ -93,7 +93,7 @@ export default async function PressReleaseDetailPage({
       <nav className="mt-12 pt-8 border-t border-gray-200 grid grid-cols-2 gap-4">
         <div>
           {prev && (
-            <Link href={`/comunicati-stampa/${prev.slug}`} className="group flex flex-col gap-1 text-sm text-gray-500 hover:text-[#385D80]">
+            <Link href={`/comunicati/${prev.slug}`} className="group flex flex-col gap-1 text-sm text-gray-500 hover:text-[#385D80]">
               <span className="text-xs uppercase tracking-wide">← Precedente</span>
               <span className="font-medium text-gray-800 group-hover:text-[#385D80] line-clamp-2">{prev.title}</span>
             </Link>
@@ -101,7 +101,7 @@ export default async function PressReleaseDetailPage({
         </div>
         <div className="text-right">
           {next && (
-            <Link href={`/comunicati-stampa/${next.slug}`} className="group flex flex-col gap-1 text-sm text-gray-500 hover:text-[#385D80]">
+            <Link href={`/comunicati/${next.slug}`} className="group flex flex-col gap-1 text-sm text-gray-500 hover:text-[#385D80]">
               <span className="text-xs uppercase tracking-wide">Successivo →</span>
               <span className="font-medium text-gray-800 group-hover:text-[#385D80] line-clamp-2">{next.title}</span>
             </Link>
