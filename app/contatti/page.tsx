@@ -8,6 +8,8 @@ const socials = [
   { label: "YouTube", href: "https://www.youtube.com/@M5SToscana", icon: "▶" },
   { label: "X", href: "https://x.com/Toscana5Stelle", icon: "𝕏" },
   { label: "Linktr.ee", href: "https://linktr.ee/m5stoscana", icon: "⬡" },
+  { label: "WhatsApp", href: "https://whatsapp.com/channel/0029VbCa8rS1iUxWBNfPmc1X", icon: "WA" },
+  { label: "Telegram", href: "https://t.me/m5s_toscana", icon: "TG" },
 ];
 
 export default function ContattiPage() {

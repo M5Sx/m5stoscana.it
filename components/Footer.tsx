@@ -17,7 +17,6 @@ export default function Footer() {
           <ul className="space-y-1 text-sm text-gray-300">
             <li><Link href="/" className="hover:text-white">Homepage</Link></li>
             <li><Link href="/chi-siamo" className="hover:text-white">Chi Siamo</Link></li>
-            <li><Link href="/i-nostri-atti" className="hover:text-white">I Nostri Atti</Link></li>
             <li><Link href="/news" className="hover:text-white">News</Link></li>
             <li><Link href="/contatti" className="hover:text-white">Contatti</Link></li>
             <li><Link href="/privacy" className="hover:text-white">Privacy</Link></li>
@@ -45,6 +44,16 @@ export default function Footer() {
             <li>
               <a href="https://www.youtube.com/@M5SToscana" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                 YouTube
+              </a>
+            </li>
+            <li>
+              <a href="https://whatsapp.com/channel/0029VbCa8rS1iUxWBNfPmc1X" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                WhatsApp
+              </a>
+            </li>
+            <li>
+              <a href="https://t.me/m5s_toscana" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                Telegram
               </a>
             </li>
           </ul>
