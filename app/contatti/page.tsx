@@ -68,6 +68,20 @@ export default function ContattiPage() {
         </a>
       </section>
 
+      {/* Comunicati stampa */}
+      <section className="mb-10">
+        <h2 className="text-xl font-bold text-gray-900 mb-3 border-b border-gray-200 pb-2">Comunicati stampa</h2>
+        <p className="text-gray-700 mb-4">Sei un giornalista? Iscriviti alla nostra lista per ricevere i comunicati stampa.</p>
+        <a
+          href="https://4aa6d27f.sibforms.com/serve/MUIFALnxBf0Fai6CoM90ww5i9anlgNMu7Ns7g3Z8aHh24SJ-_pl4QpG_QegjuA5HzXJ8Y3RubEvpPVJdtQ2fOzn_qP2zFzQZp8vtCSeRfj2gPf5bRqUgh9SF38rt5YcxtCLy1vzB5FhPLwjKU9ZHELPgIB_bKEYbMej3TJqx-KRV7V7xAFiVW63aMa6hs8uqoh2A9RMYeBc5h4ze"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-yellow-400 text-[#1e3650] font-bold px-6 py-3 rounded-lg hover:bg-yellow-300 transition"
+        >
+          Iscriviti ai comunicati stampa →
+        </a>
+      </section>
+
       {/* Scrivici */}
       <section>
         <h2 className="text-xl font-bold text-gray-900 mb-3 border-b border-gray-200 pb-2">Scrivici</h2>
