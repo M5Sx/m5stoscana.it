@@ -97,20 +97,30 @@ export default function HomePage() {
       {/* Mission strip */}
       <section className="bg-gray-50 border-t border-gray-200 py-12 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">I nostri valori</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Le nostre 5 Stelle</h2>
+          <p className="text-gray-600">I punti cardinali dell&apos;azione politica del Movimento 5 Stelle</p>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-8 mt-8">
             {[
-              { icon: "🌿", label: "Ambiente" },
-              { icon: "🏥", label: "Sanità" },
-              { icon: "🔍", label: "Trasparenza" },
-              { icon: "🚌", label: "Mobilità" },
-            ].map(({ icon, label }) => (
-              <div key={label} className="flex flex-col items-center gap-2">
-                <span className="text-4xl">{icon}</span>
+              "Beni comuni",
+              "Ecologia integrale",
+              "Giustizia sociale",
+              "Innovazione tecnologica",
+              "Economia eco-sociale di mercato",
+            ].map((label) => (
+              <div key={label} className="flex flex-col items-center gap-2 w-36">
+                <span className="text-4xl text-yellow-400" aria-hidden="true">★</span>
                 <span className="font-semibold text-gray-700">{label}</span>
               </div>
             ))}
           </div>
+          <a
+            href="https://2050x.org/m5s/documenti/statuto/#a-cinque-stelle"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block mt-8 text-sm text-[#385D80] hover:underline"
+          >
+            Leggi lo Statuto ↗
+          </a>
         </div>
       </section>
     </div>
