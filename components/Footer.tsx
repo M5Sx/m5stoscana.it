@@ -16,7 +16,7 @@ export default function Footer() {
           <h3 className="text-yellow-300 font-bold mb-3 uppercase text-sm">Link utili</h3>
           <ul className="space-y-1 text-sm text-gray-300">
             <li><Link href="/" className="hover:text-white">Homepage</Link></li>
-            <li><Link href="/chi-siamo" className="hover:text-white">Chi Siamo</Link></li>
+            <li><Link href="/informazioni" className="hover:text-white">Informazioni</Link></li>
             <li><Link href="/news" className="hover:text-white">News</Link></li>
             <li><Link href="/newsletter" className="hover:text-white">Newsletter</Link></li>
             <li><Link href="/contatti" className="hover:text-white">Contatti</Link></li>

@@ -1,4 +1,5 @@
 import { getPage } from "@/lib/posts";
+import InfoTabs from "@/components/InfoTabs";
 import type { Metadata } from "next";
 import Image from "next/image";
 
@@ -58,15 +59,22 @@ const people = [
 
 export default async function ChiSiamoPage() {
   const page = await getPage("chi-siamo");
+
+  // Separa la sezione "Dati del Gruppo Consiliare" per mostrarla sotto i rappresentanti
+  const html = page?.contentHtml ?? "";
+  const splitAt = html.search(/<h2[^>]*>\s*Dati del Gruppo Consiliare/i);
+  const introHtml = splitAt >= 0 ? html.slice(0, splitAt) : html;
+  const datiHtml = splitAt >= 0 ? html.slice(splitAt) : "";
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
+      <InfoTabs active="/chi-siamo" />
       <h1 className="text-3xl font-bold text-gray-900 mb-8 border-b-2 border-[#385D80] pb-2">
         {page?.title ?? "Chi Siamo"}
       </h1>
       {page ? (
         <div
           className="prose prose-lg prose-blue max-w-none"
-          dangerouslySetInnerHTML={{ __html: page.contentHtml }}
+          dangerouslySetInnerHTML={{ __html: introHtml }}
         />
       ) : (
         <p className="text-gray-500">Pagina non disponibile.</p>
@@ -120,6 +128,13 @@ export default async function ChiSiamoPage() {
           </div>
         ))}
       </div>
+
+      {datiHtml && (
+        <div
+          className="prose prose-lg prose-blue max-w-none mt-12"
+          dangerouslySetInnerHTML={{ __html: datiHtml }}
+        />
+      )}
     </div>
   );
 }

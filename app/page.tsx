@@ -80,14 +80,12 @@ export default function HomePage() {
             >
               Newsletter →
             </Link>
-            <a
-              href="https://linktr.ee/m5stoscana"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/contatti"
               className="border border-white text-white font-bold px-6 py-3 rounded-lg hover:bg-white/10 transition"
             >
               Canali Social →
-            </a>
+            </Link>
           </div>
         </div>
       </section>
@@ -111,6 +109,12 @@ export default function HomePage() {
               </div>
             ))}
           </div>
+          <Link
+            href="/principi-e-valori"
+            className="inline-block mt-10 bg-[#385D80] text-white px-6 py-3 rounded-lg font-medium hover:bg-[#2d4e6e] transition"
+          >
+            Leggi la Carta dei Principi e dei Valori →
+          </Link>
         </div>
       </section>
     </div>
