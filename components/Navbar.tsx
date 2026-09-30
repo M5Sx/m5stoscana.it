@@ -8,15 +8,37 @@ const navLinks = [
   { label: "Home", href: "/" },
   { label: "Chi Siamo", href: "/chi-siamo" },
   { label: "Programma", href: "/programma" },
-  { label: "News", href: "/news" },
+  // { label: "News", href: "/news" }, // nascosto per ora
   { label: "Comunicati Stampa", href: "/comunicati" },
   { label: "Newsletter", href: "/newsletter" },
   { label: "Contatti", href: "/contatti" },
 ];
 
-export default function Navbar() {
+// Altri percorsi che attivano la stessa voce di menu
+const extraMatches: Record<string, string[]> = {
+  "/newsletter": ["/tags/newsletter"],
+  "/comunicati": ["/tags/comunicati-stampa"],
+};
+
+function normalize(p: string): string {
+  return p.replace(/\/+$/, "") || "/";
+}
+
+export default function Navbar({ newsletterPaths = [] }: { newsletterPaths?: string[] }) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+
+  // Singoli articoli con categoria "newsletter" (es. /news/2026-09-21-newsletter-12-...)
+  const newsletterSet = new Set(newsletterPaths.map(normalize));
+
+  function isActive(current: string, href: string): boolean {
+    const path = normalize(current);
+    if (href === "/") return path === "/";
+    if (href === "/newsletter" && newsletterSet.has(path)) return true;
+    return [href, ...(extraMatches[href] ?? [])].some(
+      (base) => path === base || path.startsWith(base + "/")
+    );
+  }
   const isHome = pathname === "/";
 
   const headerClass = isHome
@@ -36,7 +58,16 @@ export default function Navbar() {
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-1">
           {navLinks.map((link) => (
-            <Link key={link.href} href={link.href} className="px-3 py-2 rounded hover:bg-white/10 text-sm font-medium uppercase tracking-wide">
+            <Link
+              key={link.href}
+              href={link.href}
+              aria-current={isActive(pathname, link.href) ? "page" : undefined}
+              className={`px-3 py-2 rounded text-sm font-medium uppercase tracking-wide border-b-2 transition ${
+                isActive(pathname, link.href)
+                  ? "bg-white/15 text-yellow-300 border-yellow-300"
+                  : "border-transparent hover:bg-white/10"
+              }`}
+            >
               {link.label}
             </Link>
           ))}
@@ -54,7 +85,15 @@ export default function Navbar() {
       {open && (
         <nav className="md:hidden bg-[#2d4e6e] px-4 pb-4 flex flex-col gap-1">
           {navLinks.map((link) => (
-            <Link key={link.href} href={link.href} className="py-2 border-b border-white/20 text-sm" onClick={() => setOpen(false)}>
+            <Link
+              key={link.href}
+              href={link.href}
+              aria-current={isActive(pathname, link.href) ? "page" : undefined}
+              className={`py-2 border-b border-white/20 text-sm ${
+                isActive(pathname, link.href) ? "text-yellow-300 font-bold" : ""
+              }`}
+              onClick={() => setOpen(false)}
+            >
               {link.label}
             </Link>
           ))}

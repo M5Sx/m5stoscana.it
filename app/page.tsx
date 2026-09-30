@@ -36,10 +36,10 @@ export default function HomePage() {
         )}
         <div className="text-center mt-10">
           <Link
-            href="/news"
+            href="/newsletter"
             className="inline-block bg-[#385D80] text-white px-6 py-3 rounded-lg font-medium hover:bg-[#2d4e6e] transition"
           >
-            Tutte le notizie
+            Vai alla newsletter
           </Link>
         </div>
       </section>

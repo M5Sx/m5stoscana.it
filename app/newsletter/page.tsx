@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { getPostsByCategory } from "@/lib/posts";
+import PostCard from "@/components/PostCard";
 
 export const metadata: Metadata = {
   title: "Newsletter",
@@ -8,8 +9,11 @@ export const metadata: Metadata = {
 };
 
 export default function NewsletterPage() {
+  const posts = getPostsByCategory("newsletter");
+
   return (
-    <div className="max-w-3xl mx-auto px-4 py-12">
+    <>
+    <div className="max-w-3xl mx-auto px-4 pt-12 pb-4">
       <h1 className="text-3xl font-bold text-gray-900 mb-8 border-b-2 border-[#385D80] pb-2">
         Newsletter
       </h1>
@@ -45,20 +49,22 @@ export default function NewsletterPage() {
         </p>
       </section>
 
-      <section>
-        <h2 className="text-xl font-bold text-gray-900 mb-3 border-b border-gray-200 pb-2">
+    </div>
+
+      <section className="max-w-6xl mx-auto px-4 pb-12">
+        <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b-2 border-[#385D80] pb-2">
           Numeri precedenti
         </h2>
-        <p className="text-gray-700 mb-4">
-          Leggi le newsletter già pubblicate.
-        </p>
-        <Link
-          href="/tags/newsletter"
-          className="inline-block bg-[#385D80] text-white font-bold px-6 py-3 rounded-lg hover:bg-[#2d4e6e] transition"
-        >
-          Archivio newsletter →
-        </Link>
+        {posts.length === 0 ? (
+          <p className="text-gray-500">Nessuna newsletter pubblicata.</p>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {posts.map((post) => (
+              <PostCard key={post.slug} post={post} />
+            ))}
+          </div>
+        )}
       </section>
-    </div>
+    </>
   );
 }

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { getPostsByCategory } from "@/lib/posts";
 
 export const metadata: Metadata = {
   title: {
@@ -28,7 +29,9 @@ export default function RootLayout({
   return (
     <html lang="it">
       <body className="bg-white text-gray-900 min-h-screen flex flex-col font-sans">
-        <Navbar />
+        <Navbar
+          newsletterPaths={getPostsByCategory("newsletter").map((p) => `/news/${p.slug}`)}
+        />
         <main className="flex-1">{children}</main>
         <Footer />
       </body>
