@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Contatti" };
@@ -58,14 +59,12 @@ export default function ContattiPage() {
       <section className="mb-10">
         <h2 className="text-xl font-bold text-gray-900 mb-3 border-b border-gray-200 pb-2">Newsletter</h2>
         <p className="text-gray-700 mb-4">Iscriviti alla nostra newsletter mensile per restare aggiornato su notizie e iniziative.</p>
-        <a
-          href="https://m5stoscana.substack.com/"
-          target="_blank"
-          rel="noopener noreferrer"
+        <Link
+          href="/newsletter"
           className="inline-block bg-yellow-400 text-[#1e3650] font-bold px-6 py-3 rounded-lg hover:bg-yellow-300 transition"
         >
           Iscriviti alla Newsletter →
-        </a>
+        </Link>
       </section>
 
       {/* Comunicati stampa */}

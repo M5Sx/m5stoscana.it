@@ -18,6 +18,7 @@ export default function Footer() {
             <li><Link href="/" className="hover:text-white">Homepage</Link></li>
             <li><Link href="/chi-siamo" className="hover:text-white">Chi Siamo</Link></li>
             <li><Link href="/news" className="hover:text-white">News</Link></li>
+            <li><Link href="/newsletter" className="hover:text-white">Newsletter</Link></li>
             <li><Link href="/contatti" className="hover:text-white">Contatti</Link></li>
             <li><Link href="/privacy" className="hover:text-white">Privacy</Link></li>
           </ul>
@@ -60,7 +61,18 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 text-center text-xs text-gray-400 py-4 flex flex-wrap justify-center gap-4">
-        <span>© {new Date().getFullYear()} Movimento 5 Stelle Toscana. Tutti i diritti riservati.</span>
+        <span>
+          {new Date().getFullYear()} Movimento 5 Stelle Toscana. Contenuti rilasciati con licenza{" "}
+          <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/deed.it"
+            target="_blank"
+            rel="license noopener noreferrer"
+            className="hover:text-white underline"
+          >
+            Creative Commons BY-SA 4.0
+          </a>
+          .
+        </span>
         <Link href="/privacy" className="hover:text-white underline">Privacy Policy</Link>
         <Link href="/credits" className="hover:text-white underline">Credits</Link>
       </div>

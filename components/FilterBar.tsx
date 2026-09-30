@@ -39,14 +39,12 @@ export default function FilterBar({ activeTag }: { activeTag?: string } = {}) {
       >
         Comunicati Stampa
       </Link>
-      <a
-        href="https://m5stoscana.substack.com/"
-        target="_blank"
-        rel="noopener noreferrer"
+      <Link
+        href="/newsletter"
         className="text-sm bg-yellow-400 text-[#1e3650] font-bold px-3 py-1 rounded-full hover:bg-yellow-300 transition ml-auto"
       >
         Newsletter →
-      </a>
+      </Link>
     </div>
   );
 }

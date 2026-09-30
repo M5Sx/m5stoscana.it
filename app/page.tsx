@@ -74,14 +74,12 @@ export default function HomePage() {
           <h2 className="text-2xl font-bold mb-3">Per rimanere aggiornati:</h2>
           <p className="text-white/70 mb-8">Iscrivetevi alla nostra newsletter mensile o seguiteci sui canali social:</p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a
-              href="https://m5stoscana.substack.com/"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/newsletter"
               className="bg-yellow-400 text-[#1e3650] font-bold px-6 py-3 rounded-lg hover:bg-yellow-300 transition"
             >
               Newsletter →
-            </a>
+            </Link>
             <a
               href="https://linktr.ee/m5stoscana"
               target="_blank"
@@ -113,14 +111,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-          <a
-            href="https://2050x.org/m5s/documenti/statuto/#a-cinque-stelle"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block mt-8 text-sm text-[#385D80] hover:underline"
-          >
-            Leggi lo Statuto ↗
-          </a>
         </div>
       </section>
     </div>

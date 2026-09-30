@@ -59,6 +59,25 @@ export default function CreditsPage() {
           <li>Aprire una issue o una pull request per proporre miglioramenti</li>
         </ul>
 
+        <h2 className="text-xl font-bold text-gray-900 mt-8 mb-2">Licenza</h2>
+        <p>
+          Tutti i contenuti di questo sito (testi, immagini originali e codice)
+          sono rilasciati con licenza{" "}
+          <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/deed.it"
+            target="_blank"
+            rel="license noopener noreferrer"
+            className="text-[#385D80] hover:underline"
+          >
+            Creative Commons Attribuzione – Condividi allo stesso modo 4.0 (CC BY-SA 4.0)
+          </a>
+          : puoi copiarli, ridistribuirli e modificarli, anche per scopi
+          commerciali, a condizione di citare la fonte (M5S Toscana, con un
+          link a m5stoscana.it) e di rilasciare eventuali opere derivate con
+          la stessa licenza. Restano esclusi i marchi e i loghi del MoVimento
+          5 Stelle e i materiali di terzi indicati come tali.
+        </p>
+
         <p className="text-sm text-gray-500 mt-10 border-t pt-6">
           Il sito non utilizza cookie di tracciamento, non raccoglie dati
           personali e non dipende da servizi di terze parti a pagamento.

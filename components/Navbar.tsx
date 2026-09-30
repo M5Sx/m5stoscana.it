@@ -10,7 +10,7 @@ const navLinks = [
   { label: "Programma", href: "/programma" },
   { label: "News", href: "/news" },
   { label: "Comunicati Stampa", href: "/comunicati" },
-  { label: "Newsletter", href: "/tags/newsletter" },
+  { label: "Newsletter", href: "/newsletter" },
   { label: "Contatti", href: "/contatti" },
 ];
 
