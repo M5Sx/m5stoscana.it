@@ -1,4 +1,5 @@
 import Link from "next/link";
+import FiveStars from "@/components/FiveStars";
 import { getAllPosts } from "@/lib/posts";
 import { getAllPressReleases } from "@/lib/pressreleases";
 import PostCard from "@/components/PostCard";
@@ -95,19 +96,8 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Le nostre 5 Stelle</h2>
           <p className="text-gray-600">I punti cardinali dell&apos;azione politica del Movimento 5 Stelle</p>
-          <div className="flex flex-wrap justify-center gap-x-6 gap-y-8 mt-8">
-            {[
-              "Beni comuni",
-              "Ecologia integrale",
-              "Giustizia sociale",
-              "Innovazione tecnologica",
-              "Economia eco-sociale di mercato",
-            ].map((label) => (
-              <div key={label} className="flex flex-col items-center gap-2 w-36">
-                <span className="text-4xl text-yellow-400" aria-hidden="true">★</span>
-                <span className="font-semibold text-gray-700">{label}</span>
-              </div>
-            ))}
+          <div className="mt-8">
+            <FiveStars />
           </div>
           <Link
             href="/principi-e-valori"
