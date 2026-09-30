@@ -9,8 +9,6 @@ slug: "principi-e-valori"
 
 ## Art 2. Carta dei Principi e dei Valori
 
-La seguente Carta dei Principi e dei Valori costituisce parte integrante dello Statuto; la sua revisione richiede il voto favorevole della maggioranza assoluta degli Iscritti in due successive deliberazioni ad intervallo non minore di 1 (un) mese.
-
 ### a. CINQUE STELLE
 Le cinque stelle che costellano il nostro orizzonte e orientano la nostra azione sono i beni comuni, l’ecologia integrale, la giustizia sociale, l’innovazione tecnologica e l’economia eco-sociale di mercato. Queste stelle costituiscono i punti cardine dell’azione politica del Movimento 5 Stelle. Sono le priorità programmatiche dell’impegno civico e istituzionale dei suoi rappresentanti. La costellazione dei valori della Carta dei principi ha l’obiettivo di costruire un futuro migliore, realizzare una società più equa e solidale, che consenta il pieno sviluppo della personalità di ognuno e garantisca migliori opportunità di vita a tutti:
 
