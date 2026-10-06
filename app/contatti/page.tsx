@@ -86,7 +86,7 @@ export default function ContattiPage() {
         <h2 className="text-xl font-bold text-gray-900 mb-3 border-b border-gray-200 pb-2">Scrivici</h2>
         <p className="text-gray-700 mb-4">Hai domande o vuoi metterti in contatto con il gruppo consiliare?</p>
         <a
-          href="https://forms.gle/bn41t6baeHvTXPAe6"
+          href="https://forms.gle/Pnz6ReNwXCu7ASLG8"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-[#385D80] text-white font-bold px-6 py-3 rounded-lg hover:bg-[#2d4e6e] transition"
